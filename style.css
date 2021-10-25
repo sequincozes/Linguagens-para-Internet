@@ -7,7 +7,7 @@ body {
 }
 
 #center {
-    width: 900px;
+    width: 90%;
     margin: auto;
 }
 
@@ -32,16 +32,18 @@ body {
 #sidebar-right {
     margin-top: 10px;
     float: left;
-    width: 20%;
+    width: 22.45%;
 }
 
 #content {
     margin: 10px 5px;
-    width: 52%;
+    width: 50%;
     float: left;
 }
 
-#header,
+#header {
+    margin-top: 10px;
+}
 #footer {
     clear: both;
 }
